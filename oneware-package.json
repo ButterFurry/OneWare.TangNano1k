@@ -1,9 +1,9 @@
 {
   "category": "FPGA Boards",
   "type": "Hardware",
-  "name": "TangNano9K",
-  "id": "OneWare.TangNano9K",
-  "description": "TangNano9K Integration",
+  "name": "TangNano1K",
+  "id": "OneWare.TangNano1K",
+  "description": "TangNano1K Integration",
   "license": "MIT",
   "iconUrl": "https://raw.githubusercontent.com/timonix/OneWare.TangNano9K/main/demo.png",
   "tabs": [
